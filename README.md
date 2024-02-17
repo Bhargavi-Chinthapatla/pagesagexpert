@@ -29,6 +29,5 @@ _Original Graph City Repository_: https://github.com/endlesstory0428/Graph-Citie
 
 
 **CONTRIBUTORS**
-1. Rhema Marneni @RutgersUniversity-NewBrunswick
-2. Bhargavi Chinthapatla @RutgersUniversity-NewBrunswick
-3. Saman Ebrahimi @RutgersUniversity-NewBrunswick
+1. Bhargavi Chinthapatla @RutgersUniversity-NewBrunswick
+2. Rhema Marneni @RutgersUniversity-NewBrunswick
