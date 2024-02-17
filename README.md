@@ -6,7 +6,6 @@ A Wikipedia Application based on PageRank
 <img width="781" alt="pagesagexpert_outline" src="https://github.com/rhemaMarneni/PageSageXpert/assets/67055118/18c78201-22e8-4e5f-b4b1-eef0958174f3">
 
 _Dataset_: https://www.kaggle.com/datasets/kenshoresearch/kensho-derived-wikimedia-data<br>
-_Youtube link to Graph City_: https://www.youtube.com/watch?v=azRk8F7-KRE<br>
 _Original Graph City Repository_: https://github.com/endlesstory0428/Graph-Cities/tree/main<br>
 
 **Python, Apache Spark, Django, HTML, CSS, JS, SQLite, Neo4j, 3D Force Graph**
